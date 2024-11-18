@@ -1,0 +1,52 @@
+/* 1. IMPORT SECTION */
+@import url("http://fonts.googleapis.com/css?family=Open+Sans:700italic,800,700,300,400&subset=latin,latin-ext");
+
+html {
+	background: url(/images/bg-9.jpg) fixed no-repeat;
+	background-size: 100% 100%;
+}
+body {
+	min-height: 100%;
+	margin: 0;
+	padding: 0;
+	font: 16px/1.5 'Open Sans', "Century Gothic", "Trebuchet MS", Helvetica, sans-serif;
+}
+header {
+	text-align: center;
+	color: whitesmoke;
+	width: 50%;
+	margin: 0 auto;
+	background: rgba(0,0,0,0.5);
+	padding: 3px;
+	border: dashed whitesmoke 2px;
+	border-radius: 5px;
+	margin-top: 50px;
+}
+
+/* FOOTER */
+footer {
+	position: fixed;
+	left: 0;
+	bottom: 0;
+	width: 100%;
+	background-color: rgba(0,0,0,0.9);
+	color: whitesmoke;
+	text-align: center;
+	padding: 10px 30px;
+	font-weight: bold;
+}
+
+/* footer {
+	padding: 10px 30px;
+	width:96.5%;
+	text-align: center;
+	margin: 0 auto;
+	color: white;
+	font-weight: bold;
+	background-color: rgba(0,0,0,0.9);
+	clear: both;
+	position: absolute;
+	bottom: 2px;
+	left: 0px;
+	
+}*/

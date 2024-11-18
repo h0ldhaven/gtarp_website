@@ -1,0 +1,10 @@
+{
+	"str": {
+		"prod_version": "0.1",
+		"dev_version": "0.1"
+	},
+	"num": {
+		"prod_version": 1,
+		"dev_version": 2
+	}
+}
